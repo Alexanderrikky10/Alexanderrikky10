@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I’m Alexanderrikky10, a tech enthusiast who love
 ---
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-rikky-1760a0291)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-rikky-1760a0291/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alexanderrikky10)
 [![Portfolio](https://img.shields.io/badge/-MyPortfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
